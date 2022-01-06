@@ -63,7 +63,7 @@
 
 Результат выполнения программы:
 
-![Вывод программы](https://github.com/DimaScientist/Сщву/task5.png)
+![Вывод программы](https://github.com/Code5150/Bigdata_Lab1/blob/master/img/results.jpg)
 
 ## Запуск в кластере
 
@@ -71,7 +71,7 @@
 
 Логи приложения, запущенного на сервере, доступны в папке /opt/mapr/hadoop/hadoop-2.7.0/logs/userlogs/<app_id>.
 
-![Вывод программы в кластере](https://github.com/Сщву/task5.png)
+![Вывод программы в кластере](https://github.com/Code5150/Bigdata_Lab1/blob/master/img/results_cluster.jpg)
 
 Можно увидеть, что выдачи программ идентичны с точностью до записей об ошибках (которые при запуске на сервере записываются в отдельный файл).
 
